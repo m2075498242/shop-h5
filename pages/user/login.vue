@@ -17,7 +17,7 @@
 		data() {
 			return {
 				info:{
-					mobilePhoneNumber:'18288970618',
+					mobilePhoneNumber:'13772665010',
 					password:'123'
 				}
 			}

@@ -35,9 +35,9 @@
 					count: this.seconds
 				},
 				info:{
-					username:'zbr',
+					username:'mjl',
 					password:'123',
-					mobilePhoneNumber:'18288970618'
+					mobilePhoneNumber:'13772665010'
 				}
 			}
 		},
